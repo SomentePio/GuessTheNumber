@@ -1,1 +1,1 @@
-# Are feeling luck today?
+# Feeling lucky today?
