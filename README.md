@@ -1,1 +1,1 @@
-# GuessTheNumber
+# Are feeling luck today?
