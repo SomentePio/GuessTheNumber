@@ -12,4 +12,9 @@ while(Number(result) != randomNumber) {
   Attempts++
 }
 
-alert(`You got it in ${Attempts} Attempts! 🎉🎉🎉`)
+if(Attempts == 1){
+  alert(`You got it in ${Attempts} Attempt! 🎉🎉🎉`)
+
+} else {
+  alert(`You got it in ${Attempts} Attempts! 🎉🎉🎉`)
+}
